@@ -1,14 +1,14 @@
 [
     {
-        "name": "Show Terminals",
+        "name": "Show_Terminals",
         "regex": "^ht(\\w+)?\\s?(.+)?"
     },
     {
-        "name": "Export Format",
+        "name": "Export_Format",
         "regex": "^htexport\\s?(\\w+)?"
     },
     {
-        "name": "Show Raw Database",
+        "name": "Show_Raw_Database",
         "regex": "^smttshowdb"
     }
 ]
