@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Terminals",
+        "highlight": "yes",
+        "highlightFG": "#ffff00",
+        "highlightBG": "#380055",
+        "patterns": [
+            {
+                "pattern": "access terminal",
+                "type": "substring"
+            }
+        ]
+    }
+]
